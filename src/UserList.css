@@ -1,0 +1,23 @@
+ body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+ background-color: blue;
+  }
+
+  .card-container {
+    display: flex;
+    padding: 20px;
+  }
+
+  .card {
+    width: 450px; /* Ajustez la largeur de la carte selon vos besoins /
+    height: 300px;
+    margin-right: 10px; / Ajoutez une marge entre les cartes si nécessaire */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+    margin-right: 30px;
+  }
+ 
